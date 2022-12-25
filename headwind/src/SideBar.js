@@ -17,6 +17,7 @@ const SideBar = () => {
   );
 };
 
+// Tooltip
 const SideBarIcon = ({ icon, text = 'tooltip 💡' }) => (
   <div className="sidebar-icon group">
     {icon}

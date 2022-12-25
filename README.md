@@ -34,6 +34,15 @@ Tailwind CSS ༄ is a huge collection of CSS utility classes. It allows you to w
 
 <br/>
 
+**Installation:**
+
+- [Get started with Tailwind CSS](https://tailwindcss.com/docs/installation "Tailwindcss")
+
+- [Install Tailwind CSS with Create React App](https://tailwindcss.com/docs/guides/create-react-app "Tailwindcss for react")
+
+
+<br/>
+
 ## ❤️ Motivation
 The main aim of learning Tailwind CSS is to experience the different CSS frameworks and libraries, and find a better and more beautiful way to efficiently code frontend or UI/UX components compared to pure CSS and Bootstrap.
 

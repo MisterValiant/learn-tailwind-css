@@ -1,9 +1,10 @@
 module.exports = {
   mode: 'jit',
   purge: ["./src/**/*.{js,jsx,ts,tsx}"], //remove unused styles
-  darkMode: true, // or 'media' or 'class'
+  darkMode: false, // or 'media' or 'class'
   theme: {
     extend: {
+      // Custom colors
       colors: {
         gray: {
           900: '#202225',
