@@ -34,11 +34,13 @@ Tailwind CSS ༄ is a huge collection of CSS utility classes. It allows you to w
 
 <br/>
 
-**Installation:**
+**🪓 Setup:**
 
 - [Get started with Tailwind CSS](https://tailwindcss.com/docs/installation "Tailwindcss")
 
 - [Install Tailwind CSS with Create React App](https://tailwindcss.com/docs/guides/create-react-app "Tailwindcss for react")
+
+- [Deploying a React App* to GitHub Pages](https://github.com/gitname/react-gh-pages "Tailwindcss on GitHub Pages")
 
 
 <br/>
