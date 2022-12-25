@@ -10,7 +10,7 @@
 > 
 
 >Live demo:
-[https://github.com/MisterValiant/learn-tailwind-css](https://github.com/MisterValiant/learn-tailwind-css "Learn Tailwind CSS")
+[https://mistervaliant.github.io/learn-tailwind-css/](https://mistervaliant.github.io/learn-tailwind-css/ "Learn Tailwind CSS")
 
 <br/>
 
